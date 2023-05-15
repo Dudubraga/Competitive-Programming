@@ -16,5 +16,5 @@ while True:
     except EOFError:
         break
 
-# 407 - 3n + 1
+# 407 - "3n + 1"
 # https://www.thehuxley.com/problem/407
