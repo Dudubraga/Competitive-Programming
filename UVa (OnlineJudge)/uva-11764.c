@@ -23,3 +23,6 @@ int main() {
     }
 	return 0;
 }
+
+// 11764 - Jumping Mario
+// https://onlinejudge.org/external/117/11764.pdf

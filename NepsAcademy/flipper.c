@@ -14,3 +14,6 @@ int main() {
     	}
 	return 0;
 }
+
+// Flipper
+// https://neps.academy/exercise/87

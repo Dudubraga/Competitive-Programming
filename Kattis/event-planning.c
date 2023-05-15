@@ -29,3 +29,6 @@ int main() {
     }
     return 0;
 }
+
+// Event Planning
+// https://open.kattis.com/problems/eventplanning

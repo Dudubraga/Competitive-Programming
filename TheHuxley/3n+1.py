@@ -15,3 +15,6 @@ while True:
         print(i, j, max_size)
     except EOFError:
         break
+
+# 3n + 1
+# https://www.thehuxley.com/problem/407

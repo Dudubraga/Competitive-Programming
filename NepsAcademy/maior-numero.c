@@ -15,3 +15,6 @@ int main() {
 
     return 0;
 }
+
+// Challenge of the Greatest Number
+// https://neps.academy/exercise/323

@@ -7,3 +7,6 @@ for i in range(n):
         quant += 1
     seq2 = seq1
 print(f'{quant}')
+
+# 3048 - Sequência Secreta
+# https://www.beecrowd.com.br/judge/en/problems/view/3048

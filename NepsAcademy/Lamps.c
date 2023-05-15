@@ -32,3 +32,6 @@ int main(){
 
     return 0;
 }
+
+// Lamps
+// https://neps.academy/exercise/52

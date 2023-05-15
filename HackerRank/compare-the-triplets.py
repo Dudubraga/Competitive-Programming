@@ -20,3 +20,6 @@ elif a3 < b3:
     bob += 1
     
 print(f"{alice} {bob}")
+
+# Compare the Triplets
+# https://www.hackerrank.com/challenges/compare-the-triplets/problem

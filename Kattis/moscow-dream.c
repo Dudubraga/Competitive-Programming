@@ -18,3 +18,6 @@ int main() {
 
     return 0;
 }
+
+// Moscow Dream
+// https://open.kattis.com/problems/moscowdream

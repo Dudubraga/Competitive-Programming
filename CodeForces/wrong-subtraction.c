@@ -15,3 +15,6 @@ int main(){
 
     return 0;
 }
+
+// 977A - Wrong Subtraction
+// https://codeforces.com/problemset/problem/977/A
