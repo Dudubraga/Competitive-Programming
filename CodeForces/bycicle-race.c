@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(){
 
     int tests, i = 0, sentido, curva, esquerda = 0;
     int x0, x1, x2, y0, y1, y2;
