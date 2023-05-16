@@ -9,3 +9,6 @@ int main() {
 
     return 0;
 }
+
+// JPNEU - Pneu
+// https://br.spoj.com/problems/JPNEU/

@@ -9,3 +9,6 @@ int main() {
 
 	return 0;
 }
+
+// QUADRAD2 - Quadrados
+// https://br.spoj.com/problems/QUADRAD2/
