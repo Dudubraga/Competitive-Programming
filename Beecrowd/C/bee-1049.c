@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main()
-{
+int main(){
     char filo[20];
     char classe[20];
     char ordem[20];
