@@ -17,14 +17,12 @@ int main(){
     	}
     	if(a % 2 == 0){
         	a = 0;
-    	} 
-	else {
+    	} else {
         	a = 1;
     	}
     	if(b % 2 == 0){
         	b = 0;
-    	} 
-	else {
+    	} else {
         	b = 1;
     	}
     	printf("%d\n", a);
