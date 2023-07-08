@@ -25,5 +25,5 @@ int main(){
     return 0;
 }
 
-/* 10696 f91
+/* 10696 - f91
 https://onlinejudge.org/external/106/10696.pdf */
