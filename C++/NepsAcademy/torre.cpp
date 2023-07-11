@@ -21,7 +21,7 @@ int main(){
             }
         }
     }
-    /* verificando coluna pro coluna */
+    /* verificando coluna por coluna */
     for(int j = 0; j < N; j++){
         int sum2 = 0;
         for(int i = 0; i < N; i++){
