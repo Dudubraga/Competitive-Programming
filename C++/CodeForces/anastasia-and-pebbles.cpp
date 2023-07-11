@@ -17,5 +17,5 @@ int main(){
     return 0;
 }
 
-/* A. Anastasia and pebbles
+/* 789A - Anastasia and pebbles
 https://codeforces.com/problemset/problem/789/A */
