@@ -2,7 +2,6 @@
 using namespace std;
 
 int main(){
-
     int columns, rows, knights, board, x;
     while(true){
         cin >> rows >> columns;
@@ -12,26 +11,25 @@ int main(){
         board = columns * rows;
         if(columns == 1 || rows == 1){
             knights = columns * rows;
-        }
-        else {
+        }else{
             if(columns == 2 || rows == 2){
                 if(columns >= rows){
                     x = columns;
-                } else {
+                }else{
                     x = rows;
                 }
                 if(x <= 3){
                     for(int i = 0; i < 3; i++){
                         knights = 4;
                     }
-                } else {
+                }else{
                     for(int i = 0; i < 3; i++){
                         knights = 4;
                     }
                     for(int j = 3; j < x; j++){
                         if(j % 4 == 0 || j % 4 == 1){
                             knights += 2;
-                        } else {
+                        }else{
                             knights = knights; 
                         }
                     }
@@ -39,7 +37,7 @@ int main(){
             }
             else if(board % 2 == 0){
                 knights = board / 2;
-            } else {
+            }else{
                 knights = (board + 1) / 2;
             }
         }
