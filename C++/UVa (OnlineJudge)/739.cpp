@@ -11,7 +11,7 @@ int main(){
     vector<int>spaces;
     while(cin >> name){
         int count = 0, key = 0;
-        for(int i = 0; i < name.size(); i++){
+        for(unsigned int i = 0; i < name.size(); i++){
             if(name[i] == 'B' || name[i] == 'P' || name[i] == 'F' || name[i] == 'V'){
                 if(count == 0){
                     code.push_back(name[0]);
@@ -118,7 +118,7 @@ int main(){
     }
     cout << "         " << "NAME" << "                     " << "SOUNDEX CODE" << endl;
     int j = 0;
-    for(int i = 0; i < NOMES.size(); i++){
+    for(unsigned int i = 0; i < NOMES.size(); i++){
         cout << "         " << NOMES[i];
         int size = 25 - spaces[i];
         for(int k = 0; k < size; k++){
