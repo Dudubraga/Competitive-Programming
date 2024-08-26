@@ -9,8 +9,7 @@ int main(){
         vector<int>line;
         vector<int>passed;
         for(int i = 0; i < N; i++){ cin >> cars[i]; }
-        int count = 1, sizeL = 0, i = 0;
-        bool possible = true;
+        int count = 1, i = 0;
         while(count <= N){
             if(cars[i] == count){
                 passed.push_back(cars[i]);
