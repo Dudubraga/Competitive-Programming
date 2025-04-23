@@ -77,7 +77,7 @@
 
 </details>
 
-<br>
+<hr>
 <!-- ### THE AD HOC PROBLEMS --> 
 <details>
     <summary>THE AD HOC PROBLEMS</summary>
@@ -175,7 +175,7 @@
 </details>
 </details>
 
-<br>
+<hr>
 <!-- ### LINEAR DS WITH BUILT-IN LIBRARIES -->
 <details>
     <summary>LINEAR DS WITH BUILT-IN LIBRARIES</summary>
@@ -266,7 +266,7 @@
 </details>
 </details>
 
-<br>
+<hr>
 <!-- ### NON-LINEAR DS WITH BUILT-IN LIBRARIES -->
 <details>
     <summary>NON-LINEAR DS WITH BUILD-IN LIBRARIES</summary>
@@ -315,7 +315,7 @@
 </details>
 </details>
 
-<br>
+<hr>
 <!-- ### DS WITH OUR OWN LIBRARIES -->
 <details>
     <summary>DS WITH OUR OWN LIBRARIES</summary>
@@ -343,7 +343,7 @@
 </details>
 </details>
 
-<br>
+<hr>
 <!-- ### COMPLETE SEARCH -->
 <details>
     <summary>COMPLETE SEARCH</summary>
@@ -434,7 +434,7 @@
 </details>
 </details>
 
-<br>
+<hr>
 <!-- ### DIVIDE AND CONQUER -->
 <details>
     <summary>DIVIDE AND CONQUER</summary>
@@ -462,7 +462,7 @@
 </details>
 </details>
 
-<br>
+<hr>
 <!-- ### GREEDY -->
 <details>
     <summary>GREEDY</summary>
@@ -511,7 +511,7 @@
 </details>
 </details>
 
-<br>
+<hr>
 <!-- ### DYNAMIC PROGRAMMING -->
 <details>
     <summary>DYNAMIC PROGRAMMING</summary>
@@ -553,7 +553,7 @@
 </details>
 </details>
 
-<br>
+<hr>
 <!-- ### GRAPH TRAVERSAL -->
 <details>
     <summary>GRAPH TRAVERSAL</summary>
@@ -616,7 +616,7 @@
 </details>
 </details>
 
-<br>
+<hr>
 <!-- ### MINIMUM SPANNING TREE (MST) -->
 <details>
     <summary>MINIMUM SPANNING TREE (MST)</summary>
@@ -637,7 +637,7 @@
 </details>
 </details>
 
-<br>
+<hr>
 <!-- ### SINGLE-SOURCE SHORTEST PATHS (SSSP) -->
 <details>
     <summary>SINGLE-SOURCE SHORTEST PATHS (SSSP)</summary>
@@ -686,7 +686,7 @@
 </details>
 </details>
 
-<br>
+<hr>
 <!-- ### ALL-PAIRS SHORTEST PATHS (APSP) -->
 <details>
     <summary>ALL-PAIRS SHORTEST PATHS (APSP)</summary>
@@ -707,7 +707,7 @@
 </details>
 </details>
 
-<br>
+<hr>
 <!-- ### SPECIAL GRAPHS -->
 <details>
     <summary>SPECIAL GRAPHS</summary>
