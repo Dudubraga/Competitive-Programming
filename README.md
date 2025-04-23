@@ -7,14 +7,14 @@
 <details><summary>I/O + Sequences Only</summary>
 
 1. Entry Level: Kattis - hello ✅
-2. UVa 10071 - Back to High School
-3. UVa 11614 - Etruscan Warriors
-4. Kattis - r2
+2. UVa 10071 - Back to High School ✅
+3. UVa 11614 - Etruscan Warriors ✅
+4. Kattis - r2 ✅
 </details>
 <details><summary>Repetition Only</summary>
 
-1. Entry Level: Kattis - timeloop
-2. UVa 01124 - Celebrity Jeopardy
+1. Entry Level: Kattis - timeloop ✅
+2. UVa 01124 - Celebrity Jeopardy ✅
 3. UVa 11044 - Searching for Nessy
 4. Kattis - different
 </details>
