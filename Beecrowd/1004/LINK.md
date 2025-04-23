@@ -1,0 +1,1 @@
+[1004](https://www.beecrowd.com.br/judge/en/problems/view/1004) - Simple Product

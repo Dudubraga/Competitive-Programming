@@ -1,0 +1,1 @@
+[1005](https://www.beecrowd.com.br/judge/en/problems/view/1005) - Average 1
