@@ -15,7 +15,7 @@
 
 1. Entry Level: Kattis - timeloop ✅
 2. UVa 01124 - Celebrity Jeopardy ✅
-3. UVa 11044 - Searching for Nessy
+3. UVa 11044 - Searching for Nessy ✅
 4. Kattis - different
 </details>
 <details><summary>Selection Only</summary>
