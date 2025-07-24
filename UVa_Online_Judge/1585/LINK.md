@@ -1,0 +1,1 @@
+[1585 - Score](https://onlinejudge.org/external/15/1585.pdf)
