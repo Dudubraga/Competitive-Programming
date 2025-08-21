@@ -1,3 +1,4 @@
+/* Problem statement: https://onlinejudge.org/external/103/10327.pdf */
 #include <iostream>
 #include <vector>
 using namespace std;

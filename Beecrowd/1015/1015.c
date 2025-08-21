@@ -1,3 +1,4 @@
+/* Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1015 */
 #include <stdio.h>
 #include <math.h>
 

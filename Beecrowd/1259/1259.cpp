@@ -1,3 +1,4 @@
+/* Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1259 */
 #include <iostream>
 #include <vector>
 #include <algorithm>

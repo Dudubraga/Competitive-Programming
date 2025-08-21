@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1047
 hour1, minute1, hour2, minute2 = map(int, input().strip().split())
 
 start = (hour1 * 60) + minute1

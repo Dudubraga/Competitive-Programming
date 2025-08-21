@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1037
 x = float(input())
 
 if x <= 100 and x > 75:

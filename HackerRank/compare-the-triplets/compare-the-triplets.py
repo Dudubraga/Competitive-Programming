@@ -1,3 +1,4 @@
+/* Problem statement: https://www.hackerrank.com/challenges/compare-the-triplets/problem */
 a1, a2, a3 = map(int, input().split())
 b1, b2, b3 = map(int, input().split())
 

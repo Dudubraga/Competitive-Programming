@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1070
 n = int(input())
 i = 0
 if n % 2 == 0:

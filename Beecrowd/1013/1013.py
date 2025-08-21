@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1013
 a, b, c = map(int, input().strip().split())
 
 MaiorAB = (a + b + abs(a - b)) / 2

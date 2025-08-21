@@ -1,3 +1,4 @@
+/* Problem statement: https://onlinejudge.org/external/123/12372.pdf */
 #include <stdio.h>
 
 int main() {

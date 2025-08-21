@@ -1,3 +1,4 @@
+/* Problem statement: https://open.kattis.com/problems/r2 */
 #include <bits/stdc++.h>
 using namespace std;
 

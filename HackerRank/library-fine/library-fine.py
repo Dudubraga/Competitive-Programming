@@ -1,3 +1,4 @@
+/* Problem statement: https://www.hackerrank.com/challenges/library-fine/problem */
 d1, m1, y1 = map(int, input().strip().split())
 d2, m2, y2 = map(int, input().strip().split())
 

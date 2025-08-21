@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1030
 tests = int(input())
 
 for i in range(1, tests + 1):

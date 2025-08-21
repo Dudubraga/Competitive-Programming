@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1080
 highest = 0
 position = 0
 for i in range(100):

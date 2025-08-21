@@ -1,3 +1,4 @@
+/* Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/2973 */
 #include <stdio.h>
 
 typedef long long ll;

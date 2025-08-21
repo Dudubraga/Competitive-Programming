@@ -1,3 +1,4 @@
+/* Problem statement: https://br.spoj.com/problems/MACACO/ */
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,4 @@
+/* Problem statement: https://acm.timus.ru/problem.aspx?space=1&num=1005 */
 #include <iostream>
 using namespace std;
 

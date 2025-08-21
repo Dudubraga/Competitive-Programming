@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/3048
 n = int(input())
 quant = 0
 seq2 = 0

@@ -1,3 +1,4 @@
+/* Problem statement: https://onlinejudge.org/external/104/10424.pdf */
 #include <iostream>
 #include <string>
 #include <iomanip>

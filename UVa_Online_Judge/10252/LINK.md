@@ -1,1 +1,0 @@
-[10252 - Common Permutation](https://onlinejudge.org/external/102/10252.pdf)

@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1089
 while True:
     N = int(input())
     if N == 0:

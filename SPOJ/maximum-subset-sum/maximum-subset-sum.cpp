@@ -1,3 +1,4 @@
+/* Problem statement: https://www.spoj.com/problems/MAXSUMSU/ */
 #include <iostream>
 using namespace std;
 

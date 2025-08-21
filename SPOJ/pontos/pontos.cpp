@@ -1,3 +1,4 @@
+/* Problem statement: https://br.spoj.com/problems/PARPROX/ */
 #include <iostream>
 #include <math.h>
 #include <vector>

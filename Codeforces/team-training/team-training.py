@@ -1,3 +1,4 @@
+/* Problem statement: https://codeforces.com/problemset/problem/519/C */
 xp, nb = map(int, input().split())
 groups = 0
 

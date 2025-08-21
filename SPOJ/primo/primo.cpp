@@ -1,3 +1,4 @@
+/* Problem statement: https://br.spoj.com/problems/PRIMO/ */
 #include <bits/stdc++.h>
 using namespace std;
 

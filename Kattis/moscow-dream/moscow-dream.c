@@ -1,3 +1,4 @@
+/* Problem statement: https://open.kattis.com/problems/moscowdream */
 #include <stdio.h>
 
 int a, b, c, n;

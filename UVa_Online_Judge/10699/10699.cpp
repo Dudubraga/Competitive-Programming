@@ -1,3 +1,4 @@
+/* Problem statement: https://onlinejudge.org/external/106/10699.pdf */
 #include <iostream>
 #include <vector>
 #include <cmath>

@@ -1,3 +1,4 @@
+/* Problem statement: https://br.spoj.com/problems/TAPETE14/ */
 #include <iostream>
 #include <cmath>
 using namespace std;

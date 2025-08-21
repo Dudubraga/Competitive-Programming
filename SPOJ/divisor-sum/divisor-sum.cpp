@@ -1,3 +1,4 @@
+/* Problem statement: https://www.spoj.com/problems/DIVSUM/ */
 #include <iostream>
 #include <math.h>
 using namespace std;

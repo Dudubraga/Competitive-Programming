@@ -1,3 +1,4 @@
+/* Problem statement: https://www.spoj.com/problems/UPDATEIT/ */
 #include <iostream>
 #include <string.h>
 using namespace std;

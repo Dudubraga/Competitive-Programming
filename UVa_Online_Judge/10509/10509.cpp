@@ -1,3 +1,4 @@
+/* Problem statement: https://onlinejudge.org/external/105/10509.pdf */
 #include <iostream>
 #include <math.h>
 using namespace std;

@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1017
 time_spent = int(input())
 average_speed = int(input())
 

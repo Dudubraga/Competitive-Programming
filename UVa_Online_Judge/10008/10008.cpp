@@ -1,3 +1,4 @@
+/* Problem statement: https://onlinejudge.org/external/100/10008.pdf */
 #include <iostream>
 #include <map>
 #include <string>

@@ -1,3 +1,4 @@
+/* Problem statement: https://codeforces.com/problemset/problem/791/A */
 #include <stdio.h>
  
 int main(){

@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/2791
 arr = list(map(int, input().strip().split()))
 for i in range(0, 4):
     if arr[i] == 1:

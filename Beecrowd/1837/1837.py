@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1837
 A, B = map(int, input().split())
 Q = A // B
 R = A % B

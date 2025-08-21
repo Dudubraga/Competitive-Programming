@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/2006
 tea = int(input())
 a, b, c, d, e = map(int, input().split())
 correct = 0

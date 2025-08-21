@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1038
 x, y = map(int, input().split())
 if x == 1:
     total = 4.00 * y

@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/3454
 game = input()
 O = 0
 for i in range(0, 3):

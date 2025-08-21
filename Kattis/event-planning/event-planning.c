@@ -1,3 +1,4 @@
+/* Problem statement: https://open.kattis.com/problems/eventplanning */
 #include <stdio.h>
 #include <limits.h>
 

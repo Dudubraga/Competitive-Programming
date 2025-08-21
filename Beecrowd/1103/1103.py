@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1103
 while True:
     h1, m1, h2, m2 = map(int, input().split())
     if h1 == 0 and m1 == 0 and h2 == 0 and m2 == 0:

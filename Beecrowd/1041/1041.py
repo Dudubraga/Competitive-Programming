@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1041
 x, y = map(float, input().strip().split())
 
 if x > 0:

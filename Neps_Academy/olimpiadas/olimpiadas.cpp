@@ -1,3 +1,4 @@
+/* Problem statement: https://neps.academy/br/exercise/243 */
 #include <iostream>
 #include <vector>
 #include <algorithm>

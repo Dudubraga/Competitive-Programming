@@ -1,3 +1,4 @@
+/* Problem statement: https://br.spoj.com/problems/ENCOTEL/ */
 #include <iostream>
 #include <string>
 using namespace std;

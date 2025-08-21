@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1150
 x = int(input())
 while True:
     z = int(input())

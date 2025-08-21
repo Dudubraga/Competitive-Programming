@@ -1,3 +1,4 @@
+/* Problem statement: https://neps.academy/exercise/160 */
 #include <stdio.h>
 #include <string.h>
 

@@ -1,1 +1,0 @@
-[10370 - Above Average](https://onlinejudge.org/external/103/10370.pdf)

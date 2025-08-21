@@ -1,3 +1,4 @@
+/* Problem statement: https://www.spoj.com/problems/PT07Z/ */
 #include <bits/stdc++.h>
 using namespace std;
 

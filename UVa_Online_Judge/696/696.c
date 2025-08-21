@@ -1,3 +1,4 @@
+/* Problem statement: https://onlinejudge.org/external/6/696.pdf */
 #include <stdio.h>
 
 int HowManyKnights(int linhas, int colunas){

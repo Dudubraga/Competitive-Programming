@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1094
 tests = int(input())
 total = 0; 
 rabbit = 0; rat = 0; frog = 0

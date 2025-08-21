@@ -1,3 +1,4 @@
+/* Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1024 */
 #include <stdio.h>
 #include <string.h>
 #define MAX 1000

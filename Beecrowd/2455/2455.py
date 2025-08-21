@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/2455
 p1, c1, p2, c2 = map(int, input().strip().split())
 
 if c1 * p1 == c2 * p2:

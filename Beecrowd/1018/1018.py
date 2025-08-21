@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1018
 money = int(input())
 n100 = int(money / 100)
 x = money % 100

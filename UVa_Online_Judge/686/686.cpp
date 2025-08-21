@@ -1,3 +1,4 @@
+/* Problem statement: https://onlinejudge.org/external/6/686.pdf */
 #include <iostream>
 #include <vector>
 #include <math.h>

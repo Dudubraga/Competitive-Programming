@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/2756
 a = '       A'
 b = '      B B'
 c = '     C   C'

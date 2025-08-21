@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/2434
 days, money = map(int, input().split())
 lower_q = money
 for i in range(days):

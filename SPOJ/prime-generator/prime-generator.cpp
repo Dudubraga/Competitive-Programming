@@ -1,3 +1,4 @@
+/* Problem statement: https://www.spoj.com/problems/PRIME1/ */
 #include <iostream>
 #include <math.h>
 using namespace std;

@@ -1,3 +1,4 @@
+/* Problem statement: https://codeforces.com/contest/492/problem/B */
 #include <iostream>
 #include <iomanip>
 #include <algorithm>

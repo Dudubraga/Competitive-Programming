@@ -1,3 +1,4 @@
+/* Problem statement: https://br.spoj.com/problems/SELOS11/ */
 #include <iostream>
 #include <cmath>
 using namespace std;

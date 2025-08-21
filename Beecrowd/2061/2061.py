@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/2061
 pages, actions = map(int, input().split())
 x = 1
 

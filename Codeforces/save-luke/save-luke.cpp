@@ -1,3 +1,4 @@
+/* Problem statement: https://codeforces.com/problemset/problem/624/A */
 #include <iostream>
 #include <iomanip>
 using namespace std;

@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1180
 lowest = 1000
 position = 0
 N = int(input())

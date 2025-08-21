@@ -1,3 +1,4 @@
+/* Problem statement: https://br.spoj.com/problems/FATORIA2/ */
 #include <iostream>
 using namespace std;
 

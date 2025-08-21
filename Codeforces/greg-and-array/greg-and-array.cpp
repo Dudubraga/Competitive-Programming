@@ -1,3 +1,4 @@
+/* Problem statement: https://codeforces.com/contest/295/problem/A */
 #include <iostream>
 #include <string.h>
 using namespace std;

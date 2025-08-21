@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1022
 tests = int(input())
 for t in range(tests):
     num1, _, den1, op, num2, _, den2 = input().strip().split()

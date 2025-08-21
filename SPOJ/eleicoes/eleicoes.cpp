@@ -1,3 +1,4 @@
+/* Problem statement: https://br.spoj.com/problems/ELEICOES/ */
 #include <iostream>
 #include <map>
 #include <iterator>

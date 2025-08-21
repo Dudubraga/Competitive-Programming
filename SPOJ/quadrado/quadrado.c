@@ -1,3 +1,4 @@
+/* Problem statement: https://br.spoj.com/problems/QUADRAD2/ */
 #include <stdio.h>
 
 int main() {

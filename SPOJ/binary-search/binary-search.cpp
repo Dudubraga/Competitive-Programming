@@ -1,3 +1,4 @@
+/* Problem statement: https://www.spoj.com/problems/BSEARCH1/ */
 #include <iostream>
 #include <vector>
 using namespace std;

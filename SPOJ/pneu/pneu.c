@@ -1,3 +1,4 @@
+/* Problem statement: https://br.spoj.com/problems/JPNEU/ */
 #include <stdio.h>
 
 int main() {

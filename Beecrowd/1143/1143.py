@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1143
 n = int(input())
 
 for i in range(1, n+1):

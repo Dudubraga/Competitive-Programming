@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1019
 duration = int(input())
 
 hours = int(duration / 60 / 60)

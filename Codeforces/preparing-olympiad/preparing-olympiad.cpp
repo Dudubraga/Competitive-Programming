@@ -1,3 +1,4 @@
+/* Problem statement: https://codeforces.com/problemset/problem/550/B */
 #include <iostream>
 #include <vector>
 #include <algorithm>

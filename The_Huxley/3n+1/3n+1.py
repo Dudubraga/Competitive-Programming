@@ -1,3 +1,4 @@
+/* Problem statement: https://www.thehuxley.com/problem/407 */
 def cycle_length(n):
     length = 1
     while n != 1:

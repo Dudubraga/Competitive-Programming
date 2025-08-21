@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1010
 code1, number1, price1 = map(float, input().strip().split())
 code2, number2, price2 = map(float, input().strip().split())
 

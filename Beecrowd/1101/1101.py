@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1101
 while True:
     m, n = map(int, input().split())
     if m <= 0 or n <= 0:

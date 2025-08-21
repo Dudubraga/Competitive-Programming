@@ -1,3 +1,4 @@
+/* Problem statement: https://onlinejudge.org/external/6/637.pdf */
 while True:
     p = int(input())
     if p == 0:

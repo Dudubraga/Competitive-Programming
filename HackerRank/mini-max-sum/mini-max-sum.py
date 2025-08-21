@@ -1,3 +1,4 @@
+/* Problem statement: https://www.hackerrank.com/challenges/mini-max-sum/problem */
 n1, n2, n3, n4, n5 = map(int, input().split())
 
 arr = [n1, n2, n3, n4, n5]

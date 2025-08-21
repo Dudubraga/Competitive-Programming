@@ -1,3 +1,4 @@
+/* Problem statement: https://br.spoj.com/problems/ALBUM12/ */
 #include <iostream>
 using namespace std;
 

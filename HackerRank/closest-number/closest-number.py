@@ -1,3 +1,4 @@
+/* Problem statement: https://www.hackerrank.com/challenges/closest-number/problem */
 tests = int(input())
 for i in range(tests):
     a, b, x = map(int, input().split())

@@ -1,3 +1,4 @@
+/* Problem statement: https://onlinejudge.org/external/100/10071.pdf */
 #include <stdio.h>
 
 int v, t;

@@ -1,3 +1,4 @@
+/* Problem statement: https://br.spoj.com/problems/PAPRIMAS/ */
 #include <iostream>
 #include <string>
 #include <cmath>

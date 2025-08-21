@@ -1,3 +1,4 @@
+/* Problem statement: https://www.codechef.com/problems/TRICOIN */
 #include <iostream>
 #include <cmath>
 using namespace std;

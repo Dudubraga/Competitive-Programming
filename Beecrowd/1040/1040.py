@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1040
 grade1, grade2, grade3, grade4 = map(float, input().split())
 
 average = ((grade1 * 2) + (grade2 * 3) + (grade3 * 4) + (grade4 * 1)) / 10

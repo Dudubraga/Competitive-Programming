@@ -1,3 +1,4 @@
+/* Problem statement: https://neps.academy/br/course/introducao-a-programacao/lesson/fatorial */
 #include <bits/stdc++.h>
 using namespace std;
 

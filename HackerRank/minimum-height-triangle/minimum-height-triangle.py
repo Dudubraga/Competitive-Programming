@@ -1,3 +1,4 @@
+/* Problem statement: https://www.hackerrank.com/challenges/lowest-triangle/problem */
 import math
 base, area = map(float, input().split(" "))
 

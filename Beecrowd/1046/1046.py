@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1046
 start, finish = map(int, input().split())
 
 if start == finish:

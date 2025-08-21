@@ -1,1 +1,0 @@
-[1003](https://www.beecrowd.com.br/judge/en/problems/view/1003) - Simple Sum

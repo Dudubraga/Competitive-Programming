@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1095
 i = 1
 j = 60
 print(f'I={i} J={j}')

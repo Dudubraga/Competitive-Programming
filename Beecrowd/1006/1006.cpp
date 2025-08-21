@@ -1,3 +1,4 @@
+/* Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1006 */
 #include <iostream>
 #include <iomanip>
 using namespace std;

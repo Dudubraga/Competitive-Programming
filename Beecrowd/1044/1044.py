@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1044
 a, b = map(int, input().split())
 
 heigherAB = (a + b + abs(a - b)) / 2

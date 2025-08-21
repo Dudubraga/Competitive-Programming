@@ -1,3 +1,4 @@
+/* Problem statement: https://www.spoj.com/problems/POUR1/ */
 #include <iostream>
 #include <algorithm>
 using namespace std;

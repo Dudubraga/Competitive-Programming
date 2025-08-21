@@ -1,3 +1,4 @@
+/* Problem statement: https://codeforces.com/gym/102215/problem/J */
 #include <iostream>
 #include <vector>
 #include <algorithm>

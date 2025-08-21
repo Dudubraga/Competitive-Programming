@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/1015
 x1, y1 = map(float, input().split())
 x2, y2 = map(float, input().split())
 

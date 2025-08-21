@@ -1,3 +1,4 @@
+# Problem statement: https://www.beecrowd.com.br/judge/en/problems/view/2388
 intervals = int(input())
 x = intervals
 result = 0
